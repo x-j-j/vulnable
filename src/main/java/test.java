@@ -17,5 +17,6 @@ public class test {
 //        String defaultCharset = Charset.defaultCharset().name();
 //        System.out.println(defaultCharset);//UTF-8
 
+        new String(String.valueOf(Integer.valueOf("1")));
     }
 }
